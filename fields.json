@@ -1,0 +1,21 @@
+{
+  "targetStreamers": {
+    "type": "text",
+    "label": "Target Streamers",
+    "value": "streamer1, streamer2, etc"
+  },
+  "oauthToken": {
+    "label": "Twitch OAuth Token",
+    "type": "text",
+    "value": "oauth:your_oauth_token"
+  },
+  "oauthAccountName": {
+    "type": "text",
+    "label": "OAuth Account Name",
+    "value": "OAuth Account Name"
+  },
+  "onlySubbed": {
+    "type": "checkbox",
+    "label": "Only say hi to subs"
+  }
+}
